@@ -4,6 +4,38 @@
       {
         "rgn_cd": " ",
         "rgn_nm": " "
+      },
+      {
+        "rgn_cd": "01",
+        "rgn_nm": "DKI JAKARTA"
+      },
+      {
+        "rgn_cd": "02",
+        "rgn_nm": "JAWA BARAT"
+      },
+      {
+        "rgn_cd": "03",
+        "rgn_nm": "JAWA TENGAH"
+      },
+      {
+        "rgn_cd": "04",
+        "rgn_nm": "DI YOGYAKARTA"
+      },
+      {
+        "rgn_cd": "05",
+        "rgn_nm": "JAWA TIMUR"
+      },
+      {
+        "rgn_cd": "06",
+        "rgn_nm": "BANTEN"
+      },
+      {
+        "rgn_cd": "07",
+        "rgn_nm": "BALI"
+      },
+      {
+        "rgn_cd": "08",
+        "rgn_nm": "NUSA TENGGARA BARAT"
       }
     ]
   },
