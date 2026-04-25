@@ -10,5 +10,59 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "employees": {
+    "content": [
+      {
+        "emp_no": "0089130731",
+        "emp_nm": "Goku Uzumaki",
+        "cont_stat_cd": "1",
+        "cont_stat_nm": null,
+        "cont_strt_date": "20250601",
+        "cont_end_date": "29991231",
+        "ktpno": "2018030068",
+        "emp_tp_cd": "91",
+        "emp_tp_nm": null,
+        "srtp_cd": null,
+        "srtp_nm": null,
+        "orz_cd": "4020169018",
+        "orz_nm": "Merchant Operations_MEM",
+        "agencyno": "E0004",
+        "agencynm": "INGENICO",
+        "rgn_cd": null,
+        "rgn_nm": null,
+        "area_cd": null,
+        "area_cd_nm": null,
+        "tel_rgn_cd": null,
+        "tel_no": null,
+        "hp_rgn_cd": null,
+        "hp_tel_no": "123241421423"
+      }
+    ],
+    "empty": false,
+    "first": true,
+    "last": true,
+    "number": 0,
+    "numberOfElements": 1,
+    "pageable": {
+      "offset": 0,
+      "pageNumber": 0,
+      "pageSize": 10,
+      "paged": true,
+      "sort": {
+        "empty": true,
+        "sorted": false,
+        "unsorted": true
+      },
+      "unpaged": false
+    },
+    "size": 10,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "totalElements": 1,
+    "totalPages": 1
   }
 }
